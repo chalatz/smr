@@ -1,6 +1,6 @@
 # main text of home
 name: Samantha M Robertson 
-bio: Ex-China. Its nuanced and a bit chaotic.. kind of like my interests. Writing on the intersection of decentralized tech and emerging geopolitical frontiers. In a post COVID world, I'm authoring a book on _
+bio: Ex-China. Its nuanced and mildly chaotic.. kind of like my interests. Writing on the intersection of decentralized tech and emerging geopolitical frontiers. In a post COVID world, I'm authoring a book on _
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/me.jpeg
+picture: assets/images/me.jpg
 
 url: https://http://sammyrobs.github.io/smr
 # your url: https://USERNAME.github.io
@@ -28,8 +28,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: www.linkedin.com/in/samantharobertsonreal
-twitter: https://twitter.com/sammyrobs
+linkedin: /samantharobertsonreal
+twitter: /sammyrobs
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
