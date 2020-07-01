@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/me.jpg
+picture: assets/images/main.png
 
 url: https://http://sammyrobs.github.io/smr
 # your url: https://USERNAME.github.io
@@ -48,8 +48,8 @@ authors:
   johndoe:
     name: Samantha Robertson
     bio: Ex-China. Views are complex and nuanced, like my interests. Writing on decentralized tech at the intersection of emerging geopolitical trends. Inimitable in worldview, swag, and beauty. 
-    external-image: false
-    picture: assets/images/me.jpeg
+    external-image: true
+    picture: assets/images/main.png
     twitter: sammyrobs
   
 
