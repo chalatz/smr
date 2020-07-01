@@ -1,6 +1,6 @@
 # main text of home
 name: Samantha M Robertson 
-bio: Ex-China. Its nuanced and mildly chaotic.. kind of like my interests. Writing on the intersection of decentralized tech and emerging geopolitical frontiers. In a post COVID world, I'm authoring a book on _
+bio: Writing on the intersection of decentralized tech and emerging geopolitical frontiers. 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -28,8 +28,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: /samantharobertsonreal
-twitter: /sammyrobs
+linkedin: samantharobertsonreal
+twitter: sammyrobs
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -60,7 +60,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
@@ -86,7 +86,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
