@@ -47,7 +47,7 @@ email: robertson.samantha@protonmail.com
 authors:
   johndoe:
     name: Samantha Robertson
-    bio: Ex-China. Views are complex and nuanced, like my interests. Writing on decentralized tech at the intersection of emerging geopolitical trends. Inimitable in worldview, swag, and beauty. 
+    bio: 
     external-image: true
     picture: assets/images/main.png
     twitter: sammyrobs
@@ -59,7 +59,7 @@ authors:
 width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
-pagination:
+pagination: true
   enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
