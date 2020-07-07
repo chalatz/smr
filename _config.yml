@@ -67,7 +67,7 @@ width: normal
 #   per_page: 5
 #   permalink: "/:num/" # pagination link that will be appended
 
-paginate: 1
+paginate: 5
 paginate_path: "/blog/page/:num/"
 
 
