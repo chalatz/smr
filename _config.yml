@@ -11,7 +11,7 @@ external-image: false
 picture: assets/images/main.jpg
 
 baseurl: '/smr'
-url: https://sammyrobs.github.io
+url: https://chalatz.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
